@@ -5,3 +5,10 @@
 - 💞️ Looking for Employment
 - 📫 How to reach me @thelmajemma on Twitter or thelmaijemma@gmail.com
  ✨nice to meet you✨
+
+https://dissidentai.herokuapp.com/
+https://thelmaijemma.github.io/WellFind/
+https://github.com/thelmaijemma/FindAPI
+http://artjot.herokuapp.com
+https://findappco.github.io/API/
+https://lockdowncountdowns.thelmaijemma.repl.co/
