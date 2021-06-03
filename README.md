@@ -6,14 +6,14 @@
 - 📫 How to reach me @thelmajemma on Twitter or thelmaijemma@gmail.com
  ✨nice to meet you✨
 
-https://dissidentai.herokuapp.com/
+Laravel Community Blog: https://dissidentai.herokuapp.com/
 
-https://thelmaijemma.github.io/WellFind/
+React + Mapbox Site To Find Wellness Businesses in London https://thelmaijemma.github.io/WellFind/
 
-https://github.com/thelmaijemma/FindAPI
+Back End to my PHP API: https://github.com/thelmaijemma/FindAPI
 
-http://artjot.herokuapp.com
+Artjot - MongoDB - A social media site that turns diary entries into art using the Metropolitan Museum API http://artjot.herokuapp.com
 
-https://findappco.github.io/API/
+The Front End to my API (docs for public use) https://findappco.github.io/API/
 
-https://lockdowncountdowns.thelmaijemma.repl.co/
+(mini project) Counting down England lifts COVID restrictions https://lockdowncountdowns.thelmaijemma.repl.co/
