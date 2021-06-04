@@ -1,3 +1,4 @@
+Portfolio Site: https://thelmaijemma.github.io/thelma/
 - 👋 Hi, I’m Thelma @thelmaijemma
 - 👀 I’m interested in art, crypto and NFTs, data visualization, culture and economic sociology, wellness
 - 🌱 My education and traning: Thinkful (Engineering Flex), London School of Economics (Economic Sociology MSc) 
