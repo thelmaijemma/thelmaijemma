@@ -4,7 +4,7 @@ Portfolio Site: https://thelmaijemma.github.io/thelma/
 - 🌱 My education and traning: Thinkful (Engineering Flex), London School of Economics (Economic Sociology MSc) 
 - 🌱 My stack: PHP, Laravel, React, MySQL, JavaScript, jQuery, MongoDB | Currently Learning: React Native
 - 💞️ Looking for Employment
-- 📫 How to reach me @thelmajemma on Twitter or thelmaijemma@gmail.com
+- 📫 How to reach me thelmaijemma@gmail.com
  ✨nice to meet you✨
 
 Laravel Community Blog: https://dissidentai.herokuapp.com/
