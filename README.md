@@ -2,7 +2,7 @@ Portfolio Site: https://thelmaijemma.github.io/thelma/
 - 👋 Hi, I’m Thelma @thelmaijemma
 - 👀 I’m interested in art, crypto and NFTs, data visualization, culture and economic sociology, wellness
 - 🌱 My education and traning: Thinkful (Engineering Flex), London School of Economics (Economic Sociology MSc) 
-- 🌱 My stack: PHP, Laravel, React, MySQL, JavaScript, jQuery, MongoDB | Currently Learning: React Native
+- 🌱 My stack: PHP, React, MySQL, JavaScript, MongoDB | Currently Learning: React Native
 - 💞️ Looking for Employment
 - 📫 How to reach me thelmaijemma@gmail.com
  ✨nice to meet you✨
